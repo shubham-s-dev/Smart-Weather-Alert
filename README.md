@@ -15,4 +15,4 @@ A real-time weather monitoring script that checks your city's forecast and notif
 * **Environment Variables** (Dotenv)
 
 ## Author
-**Shubham S**
+**shubham-s-dev**
